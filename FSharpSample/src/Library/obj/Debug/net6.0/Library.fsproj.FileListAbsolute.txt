@@ -1,0 +1,10 @@
+D:\git_repo\F#\FSharpSample\src\Library\obj\Debug\net6.0\Library.fsproj.AssemblyReference.cache
+D:\git_repo\F#\FSharpSample\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+D:\git_repo\F#\FSharpSample\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.fs
+D:\git_repo\F#\FSharpSample\src\Library\bin\Debug\net6.0\Library.deps.json
+D:\git_repo\F#\FSharpSample\src\Library\bin\Debug\net6.0\Library.dll
+D:\git_repo\F#\FSharpSample\src\Library\bin\Debug\net6.0\Library.pdb
+D:\git_repo\F#\FSharpSample\src\Library\bin\Debug\net6.0\Library.xml
+D:\git_repo\F#\FSharpSample\src\Library\obj\Debug\net6.0\Library.dll
+D:\git_repo\F#\FSharpSample\src\Library\obj\Debug\net6.0\Library.xml
+D:\git_repo\F#\FSharpSample\src\Library\obj\Debug\net6.0\Library.pdb
